@@ -14,13 +14,13 @@ An interactive two-page Power BI report built with the Maven Fuzzy Factory e-com
 
 ### 1. Executive Sales Overview
 
-![Executive Sales Overview](screenshots/executive-sales-overview.png)
+<img width="1195" height="668" alt="image" src="https://github.com/user-attachments/assets/ba4c72c7-9491-44a1-9ef6-cf74c6a37222" />
 
 Includes KPI cards for Total Revenue, Gross Profit, Total Orders, and Average Order Value, along with a monthly revenue trend and revenue by product.
 
 ### 2. Website & Marketing Analysis
 
-![Website & Marketing Analysis](screenshots/website-marketing-analysis.png)
+<img width="1197" height="670" alt="image" src="https://github.com/user-attachments/assets/b604f599-1b1a-41a7-974c-6d6c2cb7de1a" />
 
 Includes KPI cards for Total Sessions, Total Pageviews, Converted Sessions, and Session Conversion Rate. Visuals compare sessions by UTM source, conversion performance by source, and performance by device type. Source filters allow interactive exploration.
 
